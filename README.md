@@ -1,7 +1,7 @@
-[![MasterHead](https://giphy.com/gifs/glitch-alphabet-font-3osxY9kuM2NGUfvThe/fullscreen)]
-<h1 align="center">Hi 👋, I'm Danish Ali Siddiqui</h1>
+![MasterHead](https://media.moddb.com/images/downloads/1/193/192889/MOSHED-2020-2-20-22-48-16.gif)
+<h1 align="center">Hi 👋, I'm Danish</h1>
 <h3 align="center">I am a passionate individual who thrives to work on end to end products.</h3>
-<img align ="right" alt="Coding" width="400" src ="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg/fullscreen">
+<img align ="right" alt="Coding" width="400" src ="https://art.pixilart.com/56befb79971812c.gif">
 
 - 📝 I regularly write articles on [technologyandshit.com](technologyandshit.com)
 
@@ -28,3 +28,4 @@
 <p><a href="https://www.buymeacoffee.com/👀"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="👀" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigachiever&show_icons=true&locale=en" alt="bigachiever" /></p>
+
