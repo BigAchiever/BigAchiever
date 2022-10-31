@@ -1,15 +1,15 @@
-![MasterHead](https://media.moddb.com/images/downloads/1/193/192889/MOSHED-2020-2-20-22-48-16.gif)
-<h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">I am a passionate individual who thrives to work on end to end products.</h3>
+<img align ="center"  width="1000" src ="https://i.pinimg.com/originals/75/37/15/75371533a48898e54f01a9a43921b934.gif">
+<h1 align="center">Hi 👋, I'm Danish Ali Siddiqui</h1>
+<h3 align="center">Dumbbell with codes, Supplement with Algos..!!</h3>
 <img align ="right" alt="Coding" width="400" src ="https://art.pixilart.com/56befb79971812c.gif">
 
 - 📝 I regularly write articles on [technologyandshit.com](technologyandshit.com)
 
 - 💬 Ask me about **C/Cpp, Python, html, CP, typescript**
 
-- 📫 How to reach me **+91 9424998906**
+- 📫 How to reach me **+91 9424998906 or danishali9575@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:0f18ebb8-b30d-3873-9924-9bf667388f59](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:0f18ebb8-b30d-3873-9924-9bf667388f59)
+- 📄 Know about my experiences [shorturl.at/brTZ5](https://shorturl.at/brTZ5) 📖
 
 - ⚡ Fun fact **I'm a Programmer🙂**
 
