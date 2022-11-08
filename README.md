@@ -1,5 +1,5 @@
 <img align ="center"  width="1000" src ="https://i.pinimg.com/originals/75/37/15/75371533a48898e54f01a9a43921b934.gif">
-<h1 align="center">Hi 👋, I'm Danish Ali Siddiqui</h1>
+<h1 align="center">Hi 👋, I'm Danish</h1>
 <h3 align="center">Dumbbell with codes, Supplement with Algos..!!</h3>
 <img align ="right" alt="Coding" width="400" src ="https://art.pixilart.com/56befb79971812c.gif">
 
