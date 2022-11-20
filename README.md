@@ -1,4 +1,4 @@
-<h2 align="center">👀Dumbbell with codes, Supplement with Algos..!!</h2>
+<h2 align="center">🌟 Dumbbell with codes, Supplement with Algos 🌟</h2>
 
 <img align ="center"  width="1000" src ="https://i.pinimg.com/originals/75/37/15/75371533a48898e54f01a9a43921b934.gif">
 <h1 align="center">Hi 👋, I'm Danish</h1>
