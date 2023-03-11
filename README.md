@@ -17,10 +17,11 @@
 
 # 📊GitHub Stats :
 <div align="center">
-
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigAchiever&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=BigAchiever&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigAchiever&theme=midnight-purple&hide_border=true" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigAchiever&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+ 
 </div>
 
 
