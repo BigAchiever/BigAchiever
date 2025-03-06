@@ -12,10 +12,10 @@ Hi, I'm Danish! I'm a passionate Programmer with a focus on creating impactful s
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BigAchiever&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigAchiever&theme=midnight-purple&hide_border=true" alt="Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigAchiever&theme=midnight-purple&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BigAchiever&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />  
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigAchiever&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
