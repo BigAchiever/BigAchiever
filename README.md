@@ -2,8 +2,8 @@
 Hi, I'm Danish! I'm a passionate Programmer with a focus on creating impactful solutions through code. I enjoy exploring new technologies, contributing to open-source projects, and collaborating with others to build something great.
 
 # 🛠️ Skills
-- **Languages**: Python, C++, Dart, Html 
-- **Frameworks**: Flutter, matplotlib, pandas, 
+- **Languages**: Python, C++, Dart, Html, 
+- **Frameworks**: Flutter, matplotlib, pandas, numpy, keras 
 - **Tools**: Git, Firebase, Appwrite, AWS, 
 
 # 🚀 Featured Projects
